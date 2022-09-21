@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "vue": "^3.2.39"
+  },
+  "name": "vue-cli-first",
+  "version": "0.0.1",
+  "description": "First Software Vue",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Broadcodes/vue-cli-first.git"
+  },
+  "keywords": [
+    "Vue"
+  ],
+  "author": "Fabrizio Gianluca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Broadcodes/vue-cli-first/issues"
+  },
+  "homepage": "https://github.com/Broadcodes/vue-cli-first#readme"
+}
